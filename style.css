@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+}
+
+main {
+  display: flex;
+  margin: 100px;
+}
+
+aside {
+  margin-top: 100px;
+}
+
+.block {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  margin: 0px 10px;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.indigo {
+  background-color: indigo;
+}
+
+.purple {
+  background-color: purple;
+}
